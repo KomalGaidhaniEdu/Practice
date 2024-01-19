@@ -1,12 +1,17 @@
 public class PalindroneString {
 
     public static void main(String[] args) {
-        isPalindrome("madam");
-        isPalindrome("komal");
-        isPalindrome("racecar");
+        isPalindromeString("madam");
+        isPalindromeString("komal");
+        isPalindromeString("racecar");
+        isPalindromeNumber(12321);
     }
 
-    private static void isPalindrome(String string) {
+    private static void isPalindromeNumber(int i) {
+        isPalindromeString(Integer.toString(i));
+    }
+
+    private static void isPalindromeString(String string) {
         //Reverse the String
         //If str and reverse is equal --> palindrome
         if (string.equals(reverseStringWithStringBuilder(string)))
