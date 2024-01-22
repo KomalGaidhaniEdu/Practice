@@ -6,12 +6,11 @@ public class MissingNumber {
     private static int[] sortArray(int[] arr) {
         int i = 0;
         while (i < arr.length) {
-            int j = arr[i]-1;
-            if (arr[i] < arr.length && arr[i] != i+1 )
+            int j = arr[i] - 1;
+            if (arr[i] < arr.length && arr[i] != i + 1)
                 swap(arr, i, j);
             else i++;
         }
-
         return arr;
     }
 
@@ -35,6 +34,22 @@ public class MissingNumber {
         int[] sortedArray = sortArray(arr);
         int missingNumber = findMissingNumber(sortedArray);
         System.out.println("Missing Number is " + missingNumber);
+
+        // Finding missing number without cyclic sort
+        System.out.println("Missing Number is " + findMissingNumberWithoutCyclicSort(arr));
     }
+
+    private static int findMissingNumberWithoutCyclicSort(int[] arr) {
+        int correctSum = (arr.length + 1) * (arr.length + 2) / 2;
+
+        int actualSum = 0;
+        for (int num : arr) {
+            actualSum = actualSum + num;
+        }
+        System.out.println("Correct Sum :  " + correctSum);
+        System.out.println("Actual Sum :  " + actualSum);
+        return correctSum - actualSum;
+    }
+
 
 }
