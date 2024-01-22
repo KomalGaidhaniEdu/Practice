@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae5d7b3-70b9-4475-aef6-30dd1989f4f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Anagrams.class" afterDir="false" />
-    </list>
+    <list default="true" id="3ae5d7b3-70b9-4475-aef6-30dd1989f4f4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Anagrams">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Anagrams" />
       <module name="Practice" />
@@ -93,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Anagrams" />
         <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.Anagrams" />
         <item itemvalue="Application.PalindroneString" />
         <item itemvalue="Application.ReverseString" />
       </list>
