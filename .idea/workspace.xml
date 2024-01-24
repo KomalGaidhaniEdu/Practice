@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +43,9 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1b746901-5542-41bf-94f0-d3930c7cf2ce" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,9 +66,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwappingNumbers">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagrams" />
+  <component name="RunManager" selected="Application.CheckForVowels">
+    <configuration name="CheckForVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckForVowels" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckForVowels" />
         <item itemvalue="Application.SwappingNumbers" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.PalindroneString" />
         <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.Anagrams" />
       </list>
     </recent_temporary>
   </component>
