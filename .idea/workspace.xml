@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae5d7b3-70b9-4475-aef6-30dd1989f4f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/MissingNumber.class" afterDir="false" />
-    </list>
+    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -27,11 +28,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="DSA" />
-                    <option name="lastUsedInstant" value="1705634559" />
+                    <option name="lastUsedInstant" value="1706080153" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1705634558" />
+                    <option name="lastUsedInstant" value="1706080046" />
                   </RecentBranch>
                 </list>
               </option>
@@ -41,6 +42,9 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1b746901-5542-41bf-94f0-d3930c7cf2ce" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,9 +66,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MissingNumber">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagrams" />
+  <component name="RunManager" selected="Application.CheckForVowels">
+    <configuration name="CheckForVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckForVowels" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,12 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwappingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwappingNumbers" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.Anagrams" />
-        <item itemvalue="Application.PalindroneString" />
+        <item itemvalue="Application.CheckForVowels" />
+        <item itemvalue="Application.SwappingNumbers" />
         <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.PalindroneString" />
+        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
