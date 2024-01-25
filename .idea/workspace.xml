@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="" />
+    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="To check if Number is prime or not">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -58,6 +65,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Komal Gaidhani/Documents/Preparation/Practice&quot;
   }
 }</component>
@@ -66,7 +75,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckForVowels">
+  <component name="RunManager" selected="Application.DuplicateNumbersInArray">
     <configuration name="CheckForVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckForVowels" />
       <module name="Practice" />
@@ -74,15 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MissingNumber" />
+    <configuration name="DuplicateNumbersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicateNumbersInArray" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindroneString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindroneString" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,23 +113,31 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateNumbersInArray" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.CheckForVowels" />
         <item itemvalue="Application.SwappingNumbers" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.PalindroneString" />
-        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ae5d7b3-70b9-4475-aef6-30dd1989f4f4" name="Changes" comment="" />
+      <changelist id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="To check if Number is prime or not" />
       <created>1705634407019</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705634407019</updated>
     </task>
+    <task id="LOCAL-00001" summary="To check if vowel is present in a string or not">
+      <created>1706081788918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706081788918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +150,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="To check if vowel is present in a string or not" />
+    <MESSAGE value="To check if Number is prime or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="To check if Number is prime or not" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
