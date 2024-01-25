@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="Find Duplicate Numbers in an Array With Multiple Duplicates">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="Remove Duplicates From an Array in Place" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesFromArray">
+  <component name="RunManager" selected="Application.AllPairsOfSum">
+    <configuration name="AllPairsOfSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllPairsOfSum" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckForVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckForVowels" />
       <module name="Practice" />
@@ -100,20 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwappingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwappingNumbers" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllPairsOfSum" />
         <item itemvalue="Application.RemoveDuplicatesFromArray" />
         <item itemvalue="Application.DuplicateNumbersInArray" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.CheckForVowels" />
-        <item itemvalue="Application.SwappingNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706155900676</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Remove Duplicates From an Array in Place">
+      <created>1706156333005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706156333005</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,7 +163,8 @@
     <MESSAGE value="To check if vowel is present in a string or not" />
     <MESSAGE value="To check if Number is prime or not" />
     <MESSAGE value="Find Duplicate Numbers in an Array With Multiple Duplicates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Duplicate Numbers in an Array With Multiple Duplicates" />
+    <MESSAGE value="Remove Duplicates From an Array in Place" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates From an Array in Place" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
