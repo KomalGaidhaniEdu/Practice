@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="To check if Number is prime or not">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/src/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/PrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="d98343b9-40d2-4fd7-bf77-923fbcee6eab" name="Changes" comment="Find Duplicate Numbers in an Array With Multiple Duplicates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +71,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateNumbersInArray">
+  <component name="RunManager" selected="Application.RemoveDuplicatesFromArray">
     <configuration name="CheckForVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckForVowels" />
       <module name="Practice" />
@@ -97,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+    <configuration name="RemoveDuplicatesFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromArray" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesFromArray" />
         <item itemvalue="Application.DuplicateNumbersInArray" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.CheckForVowels" />
         <item itemvalue="Application.SwappingNumbers" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706081788918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Find Duplicate Numbers in an Array With Multiple Duplicates">
+      <created>1706155900676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706155900676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="To check if vowel is present in a string or not" />
     <MESSAGE value="To check if Number is prime or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="To check if Number is prime or not" />
+    <MESSAGE value="Find Duplicate Numbers in an Array With Multiple Duplicates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Duplicate Numbers in an Array With Multiple Duplicates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
